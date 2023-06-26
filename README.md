@@ -1,7 +1,6 @@
 # Lab1-Migration
 # Migration and the US
-##### _Why does America become as the largest immigrant country? The US currently has the largest number of foreign-born residents in the
-world and the highest rate of immigrant over the world from the last 40 years til now._
+##### _Why does America become as the largest immigrant country? The US currently has the largest number of foreign-born residents in the world and the highest rate of immigrant over the world from the last 40 years til now which becomes one of the most humanity coutries accpecting most immigrant cases from war, povity to fam ily reunion._
 
 ![](./image.jpg)
 
