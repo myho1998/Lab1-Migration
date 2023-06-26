@@ -41,7 +41,7 @@ specified period of time, such as a year or a decade
 - they are “tied” to those seeking jobs/opportunity
 - persecution, war, famine, poverty, disaster
 - not on those whose relocation to the US was because of enslavement
- An emphasis on immigration over the last 50 years but also an engagement with prior immigration and reactions to it
+<sub> An emphasis on immigration over the last 50 years but also an engagement with prior immigration and reactions to it </sub>
 
 ###2. Immigrant stock and flow
 ![](./r.png)
